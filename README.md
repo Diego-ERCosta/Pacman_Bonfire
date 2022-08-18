@@ -1,16 +1,10 @@
-# app
+- Novo projeto do Pacman usando Flutter/Bonfire. ⍩⃝
 
-A new Flutter project.
+## Iniciando
 
-## Getting Started
+Necessário o uso do VS Code com flutter configurado para poder utilizar
+Após instalado e configurado o ambiente é possível rodar o projeto
 
-This project is a starting point for a Flutter application.
+![show](https://user-images.githubusercontent.com/107633935/185474858-7d54e4b7-2109-4053-9b10-2c10dc489f63.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Work in Progess...)
